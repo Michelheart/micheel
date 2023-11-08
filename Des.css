@@ -1,0 +1,24 @@
+
+body {
+
+    height: 100vh;
+    width:100vw;
+    background-image: url("./image/bg.jpg");
+    background-size: cover;
+    align-items: flex-end;
+    justify-content: center;
+    background-position: bottom;
+}
+
+h1{
+    text-align: center;
+    color:white;
+}
+footer{
+    margin-top:750px;
+    text-align: center;
+    color: aliceblue;
+    padding: 4px;
+    background-color: black;
+    justify-content: center;
+}
